@@ -1,6 +1,6 @@
 EG code: Gives the best fir parameters for lowest 30 values of chi
 
-*******Gives best fit paramters for the user to check for physical paramters
+**Gives best fit paramters for the user to check for physical paramters**
 
 ##  Files containing the EG Code ##
 main_volumever1.py : Main code to run calls functions from different python files and results in best fit parameters and the best fit plot
