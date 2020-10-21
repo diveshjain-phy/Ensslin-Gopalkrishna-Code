@@ -1,6 +1,6 @@
 EG code: Only gives the best fit
 
-******* Parameters may be unphysical for the best fit****************
+***Parameters may be unphysical for the best fit***
 
 ##  Files containing the EG Code ##
 main.py : Main code to run calls functions from different python files and results in best fit parameters and the best fit plot
@@ -17,7 +17,7 @@ source.py     : Instances source properties of redshift and Volume (as the equip
 
 ## To run the code ##
 
-**python3 main_volumever1.py**
+**python3 main.py**
 
 **_No requirement to modify internals of the code(user has to instantiate parameters on the fly)_**
 
