@@ -24,7 +24,7 @@ User has the choice of selecting on the go
 1. Scenario
 2. Phase
 3. Coarse or Fine search in parameter search
-4. Search for probable injection index
+4. Search for probable injection index OR the user has to specify value of injection index
 
 (IF THE USER PREFERS DEFAULT OPTION , JUST PRESS ENTER)
 
