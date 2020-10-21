@@ -18,12 +18,14 @@ source.py     : Instances source properties of redshift and Volume (as the equip
 ## To run the code ##
 python3 main.py
 
+User has to specify the file containing spectra with extension
+
 User has the choice of selecting on the go 
 1. Scenario
 2. Phase
 3. Coarse or Fine search in parameter search
 4. Search for probable injection index
 
-IF THE USER PREFERS DEFAULT OPTION , JUST PRESS ENTER
+(IF THE USER PREFERS DEFAULT OPTION , JUST PRESS ENTER)
 
 
