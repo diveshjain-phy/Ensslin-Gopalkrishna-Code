@@ -10,9 +10,9 @@ operation.py  : Contains all primary functions involved in running main.py retur
 getpar        : Instances variables like magnetic field , del_t and tau
 
 ## Files User has to supply ##
-source.py     : Instances source properties of redshift and Volume (as the equipartition over estimated the magnetic field, hence source magnetic field is a variable 
+source.py     : Instances source properties of redshift and Volume (as the equipartition over estimated the magnetic field, hence source magnetic field is a variable instantiated in getpar.py)
 
-instantiated in getpar.py)
+
 "Observation".py: Instances the spectra observed for the source ["Name of the observation file can be instantiated at the time of run"]
 
 ## To run the code ##
