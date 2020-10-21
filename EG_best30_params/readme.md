@@ -16,7 +16,7 @@ source.py     : Instances source properties of redshift and Volume (as the equip
 "Observation".py: Instances the spectra observed for the source ["Name of the observation file can be instantiated at the time of run"]
 
 ## To run the code ##
-python3 main.py
+python3 main_volumever1.py
 
 User has to specify the file containing spectra with extension
 
