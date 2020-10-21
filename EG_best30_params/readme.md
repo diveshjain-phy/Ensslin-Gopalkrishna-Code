@@ -16,15 +16,17 @@ source.py     : Instances source properties of redshift and Volume (as the equip
 "Observation".py: Instances the spectra observed for the source ["Name of the observation file can be instantiated at the time of run"]
 
 ## To run the code ##
-python3 main_volumever1.py
+**python3 main_volumever1.py**
+
+**_No requirement to modify internals of the code(user has to instantiate parameters on the fly)_**
 
 _User has to specify the file containing spectra with extension_
 
-_User has the choice of selecting on the go_ 
-1. Scenario
-2. Phase
+_User has to specify on the go_ 
+1. Guess Scenario
+2. Guess Phase
 3. Coarse or Fine search in parameter search
-4. Search for probable injection index or specify value of injection index***
+4. Search for probable injection index or specify value of injection index
 
 _(IF THE USER PREFERS DEFAULT OPTION , JUST PRESS ENTER)_
 
