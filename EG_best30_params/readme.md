@@ -18,15 +18,15 @@ source.py     : Instances source properties of redshift and Volume (as the equip
 ## To run the code ##
 python3 main_volumever1.py
 
-User has to specify the file containing spectra with extension
+_User has to specify the file containing spectra with extension_
 
-User has the choice of selecting on the go 
+_User has the choice of selecting on the go_ 
 1. Scenario
 2. Phase
 3. Coarse or Fine search in parameter search
-4. Search for probable injection index or specify value of injection index
+4. Search for probable injection index or specify value of injection index***
 
-(IF THE USER PREFERS DEFAULT OPTION , JUST PRESS ENTER)
+_(IF THE USER PREFERS DEFAULT OPTION , JUST PRESS ENTER)_
 
 ## Output File ##
 Output File is saved in the name of paramters+"value of specified injection index"
