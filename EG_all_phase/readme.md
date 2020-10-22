@@ -15,6 +15,10 @@ allphase.py : User has to modify the above 5 parameters to produce meaningful sp
 
 op.py       : Contains all functions required for calculations of the spectra in allphase.py
 
+## File to be specified by user ##
+
+source.py : Contains Source properties
+
 ## Output ##
 
 A plot is created based on values of paramters specified.
