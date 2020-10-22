@@ -13,7 +13,7 @@ getpar        : Instances variables like magnetic field , del_t and tau
 source.py     : Instances source properties of redshift and Volume (as the equipartition over estimated the magnetic field, hence source magnetic field is a variable instantiated in getpar.py)
 
 
-"Observation".py: Instances the spectra observed for the source ["Name of the observation file can be instantiated at the time of run"]
+"Observationfile": Instances the spectra observed for the source ["Name of the observation file can be instantiated at the time of run"]
 
 ## To run the code ##
 **python3 main_volumever1.py**
