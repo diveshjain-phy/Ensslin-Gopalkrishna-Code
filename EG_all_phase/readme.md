@@ -12,6 +12,7 @@ for all phases is specified.
 ## Files and there uses: ##
 
 allphase.py : User has to modify the above 5 parameters to produce meaningful spectra.
+
 op.py       : Contains all functions required for calculations of the spectra in allphase.py
 
 ## Output ##
