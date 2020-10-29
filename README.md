@@ -15,3 +15,7 @@ Contains code which results in 30 lowest chi values and its corresponding parame
 # EG_all_phase :
 
 Generates plots for all phases from parameters derived from the above set of codes.
+
+Author:
+Divesh Jain
+Ruta Kale
